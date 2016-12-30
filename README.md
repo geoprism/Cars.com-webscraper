@@ -31,6 +31,11 @@ Data: https://www.cars.com/
     `https://www.cars.com/vehicledetail/detail/` +  "LISTING_ID"  + `/overview/`      
 
 ##Preview
+This data shows all 2016/2017 Honda Accord Sport for sale in the USA at the time.   
+Average Price: $22,693.12
+Average Mileage: 9,942 
+
+
 This data shows all 2014 Porsche Carrera S Coupe for sale in the USA at the time.   
 Average Price: $82,564   
 Average Mileage: 19,039   
