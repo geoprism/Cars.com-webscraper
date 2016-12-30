@@ -1,8 +1,8 @@
 # Cars.com-webscraper
 Help first time car buyers
 
-My app scrapes data from a car listings via Cars.com. It then exports data to an
-excel sheet where user can manipulate data/notice trends. This will serve
+My app scrapes data from car listings via Cars.com. It then exports data to an
+excel sheet where users can manipulate data/notice trends. This will serve
 helpful for first time buyers or any car buyers for that matter, to know the true price
 of a certain vehicle they are looking for.   
 
@@ -26,7 +26,7 @@ Data: https://www.cars.com/
 5.) Check local folder for excel sheet.  
 6.) Enjoy :)  
 
-##TIPS:
+##TIP:
 1.) Individual car listing can be found with this url format:  
     `https://www.cars.com/vehicledetail/detail/` +  "LISTING_ID"  + `/overview/`      
 
